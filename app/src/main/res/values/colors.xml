@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- magnitude-color-->
+    <color name="magnitude1">#64B5F6</color>
+    <color name="magnitude2">#42A5F5</color>
+    <color name="magnitude3">#42A5F5</color>
+    <color name="magnitude4">#FFD54F</color>
+    <color name="magnitude5">#FFB300</color>
+    <color name="magnitude6">#FF8F00</color>
+    <color name="magnitude7">#F57C00</color>
+    <color name="magnitude8">#EF6C00</color>
+    <color name="magnitude9">#E65100</color>
+    <color name="magnitude10">#D50000</color>
+
+
+</resources>
